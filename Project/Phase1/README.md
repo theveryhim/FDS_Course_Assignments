@@ -17,20 +17,6 @@ Community Sizes: [1, 2, 431, 467, 277, 1, 882, 592, 6, 15, 595, 1, 3, 5, 2, 1,..
 Top 10 Authors in Largest Community: ['Kai Lei', 'Fangxing Zhu', 'Cheng Peng', 'Kuai Xu', 'Hao Li', 'Xuan Guo', 'Le Chen', 'Guantao Chen', 'Yi Pan', 'Zhenzhong Chen']
 ```
 ### Naming the Communities
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
